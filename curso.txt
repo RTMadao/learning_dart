@@ -1,0 +1,30 @@
+introduccion hot reload y hot restart:
+- carpeta 1, video 3
+
+introduccion a dart:
+- carpeta 1, video 4
+(ejemplo_1.dart)
+- carpeta 1, video 5 - hello world
+- carpeta 1, video 8 - tipos de variables: int, String, double
+- carpeta 1, video 9 - tipos de variables: boolean
+(ejemplo_2.dart)
+- carpeta 1, video 10 - tipos de variables: listas
+- carpeta 1, video 11 - tipos de variables: map
+(ejemplo_3.dart) - carpeta 1, video 12 - funciones
+(ejemploClase.dart) 
+- carpeta 1, video 13 - clases
+- carpeta 1, video 15 - constructor con nombre
+- carpeta 1, video 16 - getter y setter
+- carpeta 1, video 18 - extend
+(ejemploMixins.dart) - carpeta 1, video 19 - mixins (herencia multiple)
+(ejemploFuture.dart) 
+- carpeta 1, video 20 - future (promesas)
+- carpeta 1, video 21 - Async Await (promesas)
+(curso_app_1)
+- carpeta 1, video 24 - crear emulardo android con androidstudio
+(flutter_vscode)
+- carpeta 1, video 25 - crear proyecto con vs code y lanzar emulador de android
+introduccion a flutter: (intro flutter.txt)
+- carpeta 1, video 32 - introduccion a conceptos de flutter
+- carpeta 1, video 41
+- carpeta 1, video 47

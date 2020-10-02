@@ -1,0 +1,13 @@
+flutter cuenta con clases radicionales y widget
+
+widget: es un clase con argumentos posciciones y argumentos con nombre 
+
+hay dos tipos (abas clases abstractas)
+- StatelessWidget (sin estado): no permite al widget cnocer el estado del mismo, debido a que sus propiedades no podrian cambiar
+
+- StatefulWidget (con estado): permite al widget cnocer el estado del mismo, y detectar el cambi de sus propiedades, puede redibujarse a si mismo al cambiar sus propiedades
+
+Arbol de widget: conjunto de widget unos dentro de otros, en esta se debe tener un widet raiz
+
+Scaffold: todo lo que se ve de la aplicacion
+dentro de este podremos tener Appbar TabBar y contenedores
